@@ -1,2 +1,3 @@
 # KhanAcademy-Clone
-Editing this readme.md
+
+Happy Coding!
